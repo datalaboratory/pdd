@@ -1,0 +1,63 @@
+path {
+    fill: none;
+}
+
+rect {margin: 0 1px 1px 0;}
+
+text {
+    font-size: 11px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-weight: 'bold';
+    border: none;
+}
+body {margin: 0 0 0 0; padding: 0 0 0 0; font-family: 'Helvetica', 'Arial', sans-serif;}
+.everything {width: 1106px; min-height: 400px; margin: 0px 60px 0;}
+.header {margin: 30px 0 0px 0; height: 50px;}
+.header h1 {  width: 1000px; font-size: 22px;}
+.header .capitel {font-size: 22px; letter-spacing: 0.12em;}
+.headertext {margin-top: 4px; float: left;}
+button {font-size: 13px;}
+#button1 {height: 28px; margin: 3px 0px 0px 10px; padding: 5px 14px 7px 14px; background-color: #fed700; border: 1px solid #aaa; border-radius: 5px 0px 0px 5px; border-left: 0px;}
+#button2 {height: 28px; margin: 0px 0 0 -1px; padding: 5px 14px 7px 14px; background-color: #fed700; border: 0px solid #fff; border-radius: 0px 5px 5px 0px;}
+#button1.cl{opacity: 1;background-color: #eee; padding: 2px 10px 4px 10px;  border: 1px solid #aaa; }
+#button2.cl{opacity: 1;background-color: #eee; padding: 2px 10px 4px 10px;  border: 1px solid #aaa; }
+#button1.on{opacity: 1; border: 0px solid #fff; padding: 2px 10px 4px 10px;  border: 1px solid #aaa; }
+#button2.on{opacity: 1; border: 0px solid #fff; padding: 2px 10px 4px 10px;  border: 1px solid #aaa; }
+#button1.off{opacity: 1; background-color: #fff; padding: 2px 10px 4px 10px;  border: 1px solid #aaa; }
+#button2.off{opacity: 1; background-color: #fff; padding: 2px 10px 4px 10px;  border: 1px solid #aaa; }
+
+.sliderContainer {width: 100%; height:20px; margin: 10px 0 0 0;}
+#slider {width: 726px; height: 2px;}
+.captions {margin: 8px 0px 0px -38px; height: 10px;}
+.try1, .try2, .try3, .try4 {font-size: 11px; float: left; width: 253px; margin-left: 0px; margin-right: 0px}
+
+.diagramContainer {min-height: 400px; margin: 0px 0 0 0; padding: 30px 0 0 0;}
+.diagram {width:726px; min-height: 400px; float: left;}
+.them {width:626px; height: 500px; float: left;}
+
+.question {width: 348px; margin-left: 30px; float: left; border: none; font-size: 13px; line-height: 12px;}
+
+.questionWrap {display: none;}
+.qCard {float: left; margin: 10px 0 10px 20px;}
+.qQuestion {float: right; margin: 10px 20px 12px 0; color: #a3a3a3;}
+.pic img {width: 308px; height: 115.5px; margin: 0 0 0 20px;}
+.qText {margin: 10px 20px 0px 20px; line-height: 15px}
+.qAnsw{font-size: 10px; margin: 7px 20px 20px 29px; font-size: 13px; line-height: 15px;}
+.qAnsw2, .qAnsw3, .qAnsw4, .qAnsw5 {margin-top: 5px;}
+.bullit {margin-left: -9px;}
+.percent {margin: 10px 0 0 0px;}
+.percentText{margin: 0 0 0 20px;}
+.percentText span {margin-left: 2px; margin-right: 2px;}
+
+
+.legend1 {margin: 270px 250px 0 770px; font-size: 11px; line-height: 3px;}
+.legend2 {margin: 14px 295px 0 770px; font-size: 11px; line-height: 3px; width: 40px;}
+
+
+.clear {clear: both;}
+
+.caption {width: 1106px; margin: 30px 60px; font-size: 13px;}
+
+.ticks {width: 784px; height: 10px; float: left; margin: -26px 0 0 0;}
+.tick {float: left; width: 51.8px; height: 10px;}
+
